@@ -1,0 +1,1 @@
+url = "https://api.currencyapi.com/v3/latest?apikey=cur_live_PsDpZ3bh24JszEibRo8oogfSxq5tJbFu4bTbRZhT&base_currency=" + currency
